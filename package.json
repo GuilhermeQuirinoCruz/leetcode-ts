@@ -5,10 +5,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Guilherme Quirino",
+  "license": "MIT",
+  "description": "Problemas do LeetCode resolvidos utilizando TypeScript",
   "devDependencies": {
     "tsx": "^4.19.2"
+  },
+  "dependencies": {
+    "package.json": "^2.0.1"
   }
 }
