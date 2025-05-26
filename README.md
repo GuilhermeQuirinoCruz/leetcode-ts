@@ -1,13 +1,15 @@
 # LeetCode.ts
 ## Mais de 100 problemas do [LeetCode](https://leetcode.com/) resolvidos utilizando TypeScript
 
+![Progesso no LeetCode](./img/progresso-leetcode.png)
+
 ## Sobre
 O projeto foi desenvolvido pensando no aprendizado da linguagem ao redor de **estruturas de dados** e **algoritmos**.
 
-Sem conhecimento prévio em TS, os conceitos foram pesquisados e aplicados conforme o necessário.
+Sem conhecimento prévio em TS, os conceitos foram pesquisados e aplicados de acordo com o problema.
 
 ## Tópicos
-Os problemas foram divididos em pastas e nomeados de acordo com o número do problema:
+Os problemas foram divididos em pastas que representam o assunto abordado e nomeados de acordo com o número no LeetCode:
 - [Arrays](src/array)
 - [Backtracking](src/backtracking)
 - [Binary Search](src/binary-search)
@@ -39,8 +41,7 @@ Os problemas foram divididos em pastas e nomeados de acordo com o número do pro
    
    $ npm init
    $ npm i package.json
-   # confirme todas as opções ou
-   # altere conforme achar necessário
+   # confirme todas as opções ou altere conforme achar necessário
 ```
 
 ### Execute um arquivo
